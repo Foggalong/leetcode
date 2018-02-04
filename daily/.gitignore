@@ -1,3 +1,7 @@
+# ---> TXT
+.bak
+.swp
+
 # ---> R
 # History files
 .Rhistory
@@ -123,4 +127,3 @@ target/
 
 # Simulink Code Generation
 slprj/
-
