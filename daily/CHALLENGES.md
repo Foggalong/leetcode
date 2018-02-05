@@ -1,6 +1,6 @@
 
 # Challenges
-While the subreddit does provide a [full list of the challenges](https://www.reddit.com/r/dailyprogrammer/wiki/challenges) it's not brilliantly formatted imo. Here's my own list of the challenges that I've attempted, split up by difficulty.
+While the subreddit does provide a [full list of the challenges](https://www.reddit.com/r/dailyprogrammer/wiki/challenges) it's not brilliantly formatted imo. Here's my own list of the challenges that I've attempted, split up by their given difficulty rating.
 
 ## Easy
 1.  [User Info](https://redd.it/pih8x)
@@ -33,6 +33,19 @@ While the subreddit does provide a [full list of the challenges](https://www.red
 28. [Array Duplicates](https://redd.it/r59kk)
 29. [Palindrome](https://redd.it/r8a70)
 30. [Paired Sums](https://redd.it/reago)
+31. [Base-26 Product](https://redd.it/rg1vv)
+32. [Roulette Wheel](https://redd.it/rhrmx)
+33. [Flash Cards](https://redd.it/rl24e)
+34. [Square of Largest](https://redd.it/rmmn8)
+35. [Triangle Numbers](https://redd.it/rr4y2)
+36. [1000 Lockers](https://redd.it/ruiob)
+37. [Word Count](https://redd.it/rzdwq)
+38. [Dijkstra's Algorithm](https://redd.it/s2no2)
+39. [FizzBuzz](https://redd.it/s6bas)
+40. [Loopless Series](https://redd.it/schtf)
+41. [ASCII Banner](https://redd.it/shp28)
+42. [Old McDonald](https://redd.it/sobna)
+43. [Binary Tree](https://redd.it/sq3p9)
 
 ### Footnotes
 1. This challenge has since been deleted from Reddit so a Wayback link is used.
