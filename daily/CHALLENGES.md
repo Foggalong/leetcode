@@ -46,6 +46,12 @@ While the subreddit does provide a [full list of the challenges](https://www.red
 41. [ASCII Banner](https://redd.it/shp28)
 42. [Old McDonald](https://redd.it/sobna)
 43. [Binary Tree](https://redd.it/sq3p9)
+44. [Longest Sentence](https://redd.it/srowj)
+45. [Checkerboard](https://redd.it/sv6lw)
+46. [Bitstring Population](https://redd.it/szz5y)
+47. [Caesar Cracking](https://redd.it/t33vi)
+48. [List Paritions](https://redd.it/t78m8)
+49. [Monty Hall](https://redd.it/tb2h0)
 
 ### Footnotes
 1. This challenge has since been deleted from Reddit so a Wayback link is used.
