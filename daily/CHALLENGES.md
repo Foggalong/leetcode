@@ -52,6 +52,11 @@ While the subreddit does provide a [full list of the challenges](https://www.red
 47. [Caesar Cracking](https://redd.it/t33vi)
 48. [List Paritions](https://redd.it/t78m8)
 49. [Monty Hall](https://redd.it/tb2h0)
+50. [Store Credit](https://redd.it/teua8)
+51. [Binomial Subsets](https://redd.it/ti5jc)
+52. [Letter Sum Sort](https://redd.it/tmnfq)
+53. [Merge Sort](https://redd.it/tpxq9)
+54. [Matrix Cipher](https://redd.it/tux8f)
 
 ### Footnotes
 1. This challenge has since been deleted from Reddit so a Wayback link is used.

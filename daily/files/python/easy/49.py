@@ -9,7 +9,7 @@ stick = 0
 while True:
     # 3 doors, 1 contains the car
     doors = {1: False, 2: False, 3: False}
-    doors[randint(1,3)] = True
+    doors[randint(1, 3)] = True
 
     # WLOG, contestant chooses door 1
     # Remove next door containing a goat
