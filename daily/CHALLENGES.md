@@ -65,6 +65,14 @@ While the subreddit does provide a [full list of the challenges](https://www.red
 60. [Polite Numbers](https://redd.it/ukj56)
 61. [Binary Rotation Sequence](https://redd.it/uo11f)
 62. [Ullman's Puzzle](https://redd.it/urqcx)
+63. [Partial Reversal](https://redd.it/uw14f)
+64. [Divisors Library](https://redd.it/uzx8b)
+65. [Dollar Decomposition](https://redd.it/v3a89)
+66. [Roman Numeral Comparison](https://redd.it/v89c4)
+67. [Reverse 32-bit](https://redd.it/vbr0z)
+68. [Emirp](https://redd.it/vfylp)
+69. [Table Printing](https://redd.it/vmblw)
+70. [Word Frequency](https://redd.it/vsv3g)
 
 ### Footnotes
 1. This challenge has since been deleted from Reddit so a Wayback link is used.
