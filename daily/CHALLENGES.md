@@ -73,6 +73,8 @@ While the subreddit does provide a [full list of the challenges](https://www.red
 68. [Emirp](https://redd.it/vfylp)
 69. [Table Printing](https://redd.it/vmblw)
 70. [Word Frequency](https://redd.it/vsv3g)
+71. [Pythagorean Triples](https://redd.it/vx3bk)
+72. [Elementary Cellular Automaton](https://redd.it/w1e7x)
 
 ### Footnotes
 1. This challenge has since been deleted from Reddit so a Wayback link is used.
