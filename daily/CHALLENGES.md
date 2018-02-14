@@ -75,6 +75,11 @@ While the subreddit does provide a [full list of the challenges](https://www.red
 70. [Word Frequency](https://redd.it/vsv3g)
 71. [Pythagorean Triples](https://redd.it/vx3bk)
 72. [Elementary Cellular Automaton](https://redd.it/w1e7x)
+73. [Reverse Polish Notation](https://redd.it/w4l6e)
+74. [Zeckendorf Representation](https://redd.it/wa0mc)
+75. [Functions Transformer](https://redd.it/wfhua)
+76. [Title Case](https://redd.it/wjzly)
+77. [Enumerating Morse Code Sequences](https://redd.it/wn3ld)
 
 ### Footnotes
 1. This challenge has since been deleted from Reddit so a Wayback link is used.
