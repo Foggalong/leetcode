@@ -80,6 +80,11 @@ While the subreddit does provide a [full list of the challenges](https://www.red
 75. [Functions Transformer](https://redd.it/wfhua)
 76. [Title Case](https://redd.it/wjzly)
 77. [Enumerating Morse Code Sequences](https://redd.it/wn3ld)
+78. [Keyboard Locale Simulator](https://redd.it/wrqbr)
+79. [Step Counter](https://redd.it/wvc21)
+80. [Anagrams](https://redd.it/x0v3e)
+81. [Numerical Calculus I](https://redd.it/x538d)
+
 
 ### Footnotes
 1. This challenge has since been deleted from Reddit so a Wayback link is used.
