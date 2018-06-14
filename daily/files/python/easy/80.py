@@ -1,14 +1,7 @@
 #!/usr/bin/env python3
 
-from os import remove
-from urllib.request import urlretrieve
-
-url = "https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/dotnetperls-controls/enable1.txt"
-urlretrieve(url, "words.txt")
-
-with open ("words.txt", "r") as file:
+with open("../../data/easy80.txt", "r") as file:
     words = [line.strip() for line in file]
-remove("words.txt")
 
 anagrams = {}
 
@@ -21,4 +14,3 @@ for word in words:
 
 print(sorted(anagrams.values(), key=lambda x: -len(x[:]))[0])
 print(sorted(anagrams.values(), key=lambda x: -len(x[:]))[1])
-

@@ -1,14 +1,7 @@
 #!/usr/bin/python3
 
-from os import remove
-from urllib.request import urlretrieve
-
-url = "http://www.gutenberg.org/cache/epub/1661/pg1661.txt"
-urlretrieve(url, "book.txt")
-
-with open("book.txt", "r") as file:
+with open("../../data/easy19.txt", "r") as file:
     lines = [line.strip().lower() for line in file]
-remove("book.txt")
 
 # Cut out header and footer
 lines = lines[61:12681]
