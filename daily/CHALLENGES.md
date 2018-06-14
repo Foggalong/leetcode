@@ -84,6 +84,10 @@ While the subreddit does provide a [full list of the challenges](https://www.red
 79. [Step Counter](https://redd.it/wvc21)
 80. [Anagrams](https://redd.it/x0v3e)
 81. [Numerical Calculus I](https://redd.it/x538d)
+82. [Alphabet Substrings](https://redd.it/x8rl8)
+83. [Long Scale and Short Scale](https://redd.it/xdwyb)
+84. [Searching Text Adventure](https://redd.it/xilfu)
+85. [Row/Column Sorting](https://redd.it/xq0yv)
 
 
 ### Footnotes

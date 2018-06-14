@@ -9,4 +9,4 @@ def subset(A, N):
 
 A = [1, 2, 3, 4, 5]
 N = 3
-print(binset(A, N))
+print(subset(A, N))
