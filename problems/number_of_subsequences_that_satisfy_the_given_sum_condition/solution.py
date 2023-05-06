@@ -9,6 +9,8 @@ class Solution:
         """
 
         count = 0
+        mod   = 10**9 + 7
+
         # more efficient to sort the full list than to find
         # the minimum and maximum of all the subsequences
         nums.sort()
@@ -20,10 +22,10 @@ class Solution:
         while i <= j:
             if nums[i] + nums[j] <= target:
                 # sequence of length n has 2^n subsequences
-                count += pow(2, j-i, 10**9 + 7)
+                count += pow(2, j-i, mod)
                 # don't double count substrings 
                 i += 1
             else:
                 j -= 1
 
-        return count % (10**9 + 7)
+        return count % mod
