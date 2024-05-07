@@ -11,7 +11,7 @@ class Solution:
         # question indexes from 1, not 0, so must adjust
         for rowNum in range(1, numRows):  
             # row's internal values are pair-sums of the previous row
-            lastRow = [sum(lastRow[i:i+2]) for i in range(len(lastRow)-1)]
+            lastRow = [sum(lastRow[i:i+2]) for i in range(rowNum-1)]
             # row's first and last values are both '1'
             lastRow = [1] + lastRow + [1]
             outRows.append(lastRow)
