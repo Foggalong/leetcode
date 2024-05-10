@@ -15,3 +15,4 @@ class Solution:
 
         # compare to its reverse
         return current_value == current_value[::-1]
+
