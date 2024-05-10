@@ -34,3 +34,4 @@ class Solution:
             if n == 1: return True
         # if n in seen, we're not happy
         return False
+
