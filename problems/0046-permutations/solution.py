@@ -23,3 +23,4 @@ class Solution:
                 outputs.append(nums[i:i+1] + permutation)
 
         return outputs
+
