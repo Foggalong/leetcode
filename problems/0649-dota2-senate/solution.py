@@ -46,3 +46,4 @@ class Solution:
                         Rs -= 1
 
                 index += 1
+
