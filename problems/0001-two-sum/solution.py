@@ -24,3 +24,4 @@ class Solution:
             # if nums[j] not in nums, KeyError will be thrown
             except KeyError:
                 continue
+
