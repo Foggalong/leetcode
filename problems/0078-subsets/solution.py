@@ -1,16 +1,39 @@
 from itertools import chain, combinations
+import numpy as np
 
 """
 It was odd that this problem came up today, because I used the powerset
 recipe from the itertools module to do yesterday's Daily LeetCode. This
 is included as `powerset` below. Today's solution was also started at a
 time long past, so I finished that rather than starting anew. It is for
-sure not the best way to do this. 
+sure not the best way to do this.
+
+EDIT (May 23rd) also added an implementation of the binary filtering I
+saw someone discuss in the comments because it piqued my interest.
 """
 
 
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
+        """List all subserts using binary filtering"""
+
+        n: int = len(nums)
+
+        # start with the base case, the emptyset and itself
+        powerset: List[List[int]] = [[], nums]
+        if n == 1: return powerset
+
+        # only interested in non-empty subsets, so start at 1
+        for i in range(1, 2**n - 1):
+            # convert i to an n-bit binary string
+            binary: str = f"{i:b}".zfill(n)
+            # use this binary string to filter nums to a subset
+            powerset.append([nums[j] for j in range(n) if binary[j] == '1'])
+
+        return powerset        
+
+
+    def subsetsBad(self, nums: List[int]) -> List[List[int]]:
         """List all subserts using recurrsive function"""
 
         n: int = len(nums)
