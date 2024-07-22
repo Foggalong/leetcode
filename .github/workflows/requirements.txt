@@ -1,0 +1,4 @@
+numpy >= 1.21, < 2.0.0
+scipy >= 1.8.0
+gurobipy >= 11.0.0
+highspy >= 1.7.2
